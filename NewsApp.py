@@ -1,5 +1,5 @@
 #####################################################################
-#   Authors: Vaibhav Garg, Devansh Moudgil and Dilpreet Singh       #
+#   Authors:Dilpreet Singh                                          #
 #   Version 1.1                                                     #
 #   Minor Project - News App                                        #
 #                                                                   #
@@ -10,8 +10,6 @@
 #       > patch.txt                                                 #
 #                                                                   #
 #   For any queries contact the below:                              #
-#   cse9530vaibhav@gmail.com   (+91 6284285443)                     #
-#   cse9508devansh@gmail.com   (+91 9478358661)                     #
 #   cse9510dilpreet@gmail.com  (+91 9888042018)                     #
 #                                                                   #
 #####################################################################
